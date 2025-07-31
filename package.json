@@ -1,0 +1,22 @@
+{
+  "name": "vue-i18n-revert",
+  "version": "1.0.3",
+  "description": "Replace Vue i18n $t() expressions with actual text from language files.",
+  "bin": {
+    "vue-i18n-replacer": "./bin/cli.js"
+  },
+  "dependencies": {
+    "@babel/generator": "7.28.0",
+    "@babel/parser": "7.28.0",
+    "@babel/traverse": "7.28.0"
+  },
+  "keywords": [
+    "vue3",
+    "i18n",
+    "replace",
+    "babel",
+    "localization"
+  ],
+  "author": "Conie D",
+  "license": "MIT"
+}
