@@ -65,7 +65,7 @@ vue-i18n-replacer ./pages/tsst.vue ./i18n/language/en.ts
 
 ### 控制台输出日志
 
-![终端输出结果](https://github.com/DaiYunchuan/vue-i18n-revert/blob/main/public/images/output.png)
+![终端输出结果](https://github.com/DaiYunchuan/vue-i18n-revert/blob/main/public/images/output2.png)
 
 ---
 
