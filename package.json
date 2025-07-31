@@ -1,6 +1,6 @@
 {
   "name": "vue-i18n-revert",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Replace Vue i18n $t() expressions with actual text from language files.",
   "bin": {
     "vue-i18n-replacer": "./bin/cli.js"
