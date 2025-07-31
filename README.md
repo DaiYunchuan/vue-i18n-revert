@@ -47,31 +47,31 @@ vue-i18n-replacer ./pages/tsst.vue ./i18n/language/en.ts
 
 ### 原始 Vue 文件（含 `$t`，`$t('xxxxx',{xxx:'xxxxx'})` 多语言调用）
 
-![原始 Vue 文件](/public/images/orgvue.png)
+![原始 Vue 文件](https://github.com/DaiYunchuan/vue-i18n-revert/blob/main/public/images/orgvue.png)
 
 ---
 
 ### 多语言文件结构
 
-![语言文件结构](/public/images/i18nflie.png)
+![语言文件结构](https://github.com/DaiYunchuan/vue-i18n-revert/blob/main/public/images/i18nflie.png)
 
 ---
 
 ### 终端输入命令
 
-![终端输入命令](/public/images/input.png)
+![终端输入命令](https://github.com/DaiYunchuan/vue-i18n-revert/blob/main/public/images/input.png)
 
 ---
 
 ### 控制台输出日志
 
-![终端输出结果](/public/images/output.png)
+![终端输出结果](https://github.com/DaiYunchuan/vue-i18n-revert/blob/main/public/images/output.png)
 
 ---
 
 ### 最终还原效果对比
 
-![最终 Vue 文件对比](/public/images/over.png)
+![最终 Vue 文件对比](https://github.com/DaiYunchuan/vue-i18n-revert/blob/main/public/images/over.png)
 
 ---
 
